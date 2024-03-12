@@ -4,7 +4,7 @@
 
 - Faculdade Estácio - Polo Curitiba - Centro
 - Curso: Desenvolvimento Full Stack
-- Disciplina: Lidando com sensores em dispositivos móveis
+- Disciplina: Tirando Proveito da Nuvem Para Projetos de Software
 - Número da Turma: RPG0026
 - Semestre Letivo: 4
 - Integrante: Mariana Lucas Fernandes Onório
